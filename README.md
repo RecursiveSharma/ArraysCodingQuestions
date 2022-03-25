@@ -20,7 +20,7 @@ Find Min and Max in an Array
 | Array Questions  | Practice Link | Code Solutions | Video Solutions | HINT
 | ------------- | :-------------: | :-------------: | :---------: |:---------: |
 Valid Moutain Array | [Solve](https://leetcode.com/problems/valid-mountain-array/) | [Code](https://github.com/RecursiveSharma/Leetcode-Problem-and-Solutions/blob/main/ValidMoutainArray.md) | [Video](https://youtu.be/tVDTjm_fYbQ) | 2 pointers
-Majority Element | [Solve](https://leetcode.com/problems/majority-element/) | [Code]() | [Video](https://www.youtube.com/watch?v=cLE1J34pYUo) |
+Majority Element | [Solve](https://leetcode.com/problems/majority-element/) | [Code](https://github.com/RecursiveSharma/ArraysCodingQuestions/blob/main/Majority%20Element.md) | [Video](https://www.youtube.com/watch?v=cLE1J34pYUo) |
 Kth smallest element
 Trapping Rain Water
 Coin Change
