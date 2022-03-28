@@ -6,7 +6,7 @@
 
 ### WHEN max and when min HEAPS and WHY ?
 
- Note- k is small = max; | k is large = min;
+ Note- k is small = min; | k is large = MAX;
 ```java
 
 //sol1 = using sorting or trick
