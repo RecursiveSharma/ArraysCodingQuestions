@@ -21,7 +21,7 @@ Find Min and Max in an Array
 | ------------- | :-------------: | :-------------: | :---------: |:---------: |
 Valid Moutain Array | [Solve](https://leetcode.com/problems/valid-mountain-array/) | [Code](https://github.com/RecursiveSharma/Leetcode-Problem-and-Solutions/blob/main/ValidMoutainArray.md) | [Video](https://youtu.be/tVDTjm_fYbQ) | 2 pointers
 Majority Element | [Solve](https://leetcode.com/problems/majority-element/) | [Code](https://github.com/RecursiveSharma/ArraysCodingQuestions/blob/main/Majority%20Element.md) | [Video](https://www.youtube.com/watch?v=cLE1J34pYUo) | Sorting / or Boyer-Moore Voting Algorithm
-Kth smallest element | [Solve](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Code](https://github.com/RecursiveSharma/ArraysCodingQuestions/blob/main/kth-largest-smallest.md) | [Video] | soritng / priority q
+Kth smallest element | [Solve](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Code](https://github.com/RecursiveSharma/ArraysCodingQuestions/blob/main/kth-largest-smallest.md) | [Video](#) | soritng / priority q
 Trapping Rain Water
 Coin Change
 Stock span problem
