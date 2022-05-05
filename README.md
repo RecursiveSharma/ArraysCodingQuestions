@@ -10,7 +10,7 @@ Missing number in array
 Rotate Array
 Find duplicates in an array
 Move all zeroes to end of array
-Sort an array of 0s, 1s and 2s
+Sort an array of 0s, 1s and 2s | [Solve](https://leetcode.com/problems/sort-colors/submissions/) , [Solve](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1/) | [Code](https://github.com/RecursiveSharma/ArraysCodingQuestions/blob/main/Sort%20Array%200s1s2s.md) | [Video](#)
 Intersection of two arrays
 Reverse an array
 Swapping Elements in an array
