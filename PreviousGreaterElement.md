@@ -1,5 +1,5 @@
 ### [Back2Home](https://github.com/RecursiveSharma/ArraysCodingQuestions/main/README.md) | [Go2Video](#)
-
+# Previous Grater Element = Next Greater Element to Left
 ## Naive Solution = O(n)2
 ```java
 // JAVA SOLUTION
