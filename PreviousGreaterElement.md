@@ -41,7 +41,6 @@ void printPrevGreater(int arr[],int n){
 public static void printPrevGreater(int arr[],int n){
     
         Stack <Integer> s=new Stack<>();
-        s.add(arr[0]);
         for(int i=0;i<n;i++){
             while(s.isEmpty()==false && s.peek()<=arr[i])
                 s.pop();
@@ -55,7 +54,6 @@ public static void printPrevGreater(int arr[],int n){
 //C++ SOLUTION
 void printPrevGreater(int arr[],int n){
     stack<int>s;
-    s.push(arr[0]);
     for(int i=0;i<n;i++){
         while(s.empty()==false && s.top()<=arr[i])
             s.pop();
